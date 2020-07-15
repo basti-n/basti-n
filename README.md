@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi 👋 I am Sebastian, Frontend-Developer based in Munich.
+### You will find more information about me in here... soon. 
+
+```new Promise(resolve => setTimeout(resolve(moreAboutme), inAShortWhile)```
 
 <!--
 **basti-n/basti-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
