@@ -1,7 +1,18 @@
 ## Hi 👋 I am Sebastian, Frontend-Developer based in Munich.
-### You will find more information about me in here... soon. 
 
-```new Promise(resolve => setTimeout(resolve(moreAboutme), inAShortWhile)```
+```new Promise(resolve => setTimeout(resolve(`<a href="https://sebastianneumair.dev/">More about me 🌐</a>`), timeToLearnALittleSapper)```
+
+📫 Contact me on:
+  - 👔 LinkedIn: https://www.linkedin.com/in/sebastian-neumair/ 
+  - 📧 Email: sebastian.neumair@gmail.com
+  
+🏢 I am currently working on:
+  - __Angular__ Applications for a large financial comparison portal
+  - Helping clients to _search_, _find_ and _sign_ consumer loans.
+
+🌱 I’m currently learning:
+  - Python
+
 
 <!--
 **basti-n/basti-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
