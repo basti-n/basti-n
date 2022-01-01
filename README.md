@@ -11,7 +11,7 @@
   - Helping clients to _search_, _find_ and _sign_ consumer loans.
 
 🌱 I’m currently learning:
-  - Python
+  - Rust
 
 
 <!--
