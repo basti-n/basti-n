@@ -6,13 +6,11 @@
   - 👔 LinkedIn: https://www.linkedin.com/in/sebastian-neumair/ 
   - 📧 Email: sebastian.neumair@gmail.com
   
-🏢 I am currently working on:
-  - __Angular__ Applications for a large financial comparison portal
-  - Helping clients to _search_, _find_ and _sign_ consumer loans.
+🏢 I am currently working on a web-based practice administration system.
 
 🌱 I’m currently learning:
   - Rust
-
+  - Go
 
 <!--
 **basti-n/basti-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
